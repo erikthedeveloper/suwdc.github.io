@@ -8,3 +8,6 @@
 - Pull Request
 
 ## Said Hello...
+
+- Erik Aybar
+    - GitHub: [@erikthedeveloper](http://github.com/erikthedeveloper)

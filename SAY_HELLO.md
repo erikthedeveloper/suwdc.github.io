@@ -16,4 +16,4 @@
 - Kasey Cowley
 	- Github: [@kchunterdeluxe](http://github.com/kchunterdeluxe)
 - Lora Klein
-    -Git Hub: [@laklein](http://github.com/laklein)
+    - GitHub: [@laklein](http://github.com/laklein)

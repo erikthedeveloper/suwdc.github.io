@@ -11,3 +11,5 @@
 
 - Erik Aybar
     - GitHub: [@erikthedeveloper](http://github.com/erikthedeveloper)
+- Lora Klein
+    -Git Hub: [@laklein](http://github.com/laklein)

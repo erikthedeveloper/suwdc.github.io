@@ -13,3 +13,5 @@
     - GitHub: [@erikthedeveloper](http://github.com/erikthedeveloper)
 - Alex Valencia
     - GitHub: [@TheValencian](http://github.com/TheValencian)
+- Kasey Cowley
+	- Github: [@kchunterdeluxe](http://github.com/kchunterdeluxe)

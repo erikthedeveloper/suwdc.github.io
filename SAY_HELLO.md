@@ -11,3 +11,5 @@
 
 - Erik Aybar
     - GitHub: [@erikthedeveloper](http://github.com/erikthedeveloper)
+- Alex Valencia
+    - GitHub: [@TheValencian](http://github.com/TheValencian)

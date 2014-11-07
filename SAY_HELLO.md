@@ -11,3 +11,5 @@
 
 - Erik Aybar
     - GitHub: [@erikthedeveloper](http://github.com/erikthedeveloper)
+- Kasey Cowley
+	- Github: [@kchunterdeluxe](http://github.com/kchunterdeluxe)
